@@ -1,4 +1,4 @@
-#include <stgio.h>
+#include <stdio.h>
 /**
  * main - entry
  * Return: Always 0
